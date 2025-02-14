@@ -1,2 +1,2 @@
 # Ecommerce-Sales-DataSet
-Data Analytics Project with Python and SQL
+Data Analysis Project with Python, SQL and Excel
